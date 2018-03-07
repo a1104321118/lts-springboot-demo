@@ -60,6 +60,16 @@
     </dependencyManagement>
 
     <dependencies>
+
+        <!--  LTS 包含的包，这里为方便直接全部引用了
+
+          <include>com.github.ltsopensource:lts-core</include>
+          <include>com.github.ltsopensource:lts-jobclient</include>
+          <include>com.github.ltsopensource:lts-tasktracker</include>
+          <include>com.github.ltsopensource:lts-jobtracker</include>
+          <include>com.github.ltsopensource:lts-spring</include>
+          <include>com.github.ltsopensource:lts-monitor</include>
+        -->
         <dependency>
             <groupId>com.github.ltsopensource</groupId>
             <artifactId>lts</artifactId>
