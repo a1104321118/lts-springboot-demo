@@ -21,7 +21,6 @@ public class JobCommiter {
 
     @PostConstruct
     public void init(){
-        System.out.println(111111);
         submitCronJob("job1");
         submitCronJob("job2");
     }
