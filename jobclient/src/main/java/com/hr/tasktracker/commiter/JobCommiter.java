@@ -1,4 +1,4 @@
-package com.pingpongx.tasktracker.commiter;
+package com.hr.tasktracker.commiter;
 
 import com.github.ltsopensource.core.domain.Job;
 import com.github.ltsopensource.jobclient.JobClient;

@@ -1,4 +1,4 @@
-package com.pingpongx.tasktracker.handler;
+package com.hr.tasktracker.handler;
 
 import com.github.ltsopensource.core.commons.utils.CollectionUtils;
 import com.github.ltsopensource.core.domain.JobResult;

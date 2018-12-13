@@ -1,4 +1,4 @@
-package com.pingpongx.tasktracker;
+package com.hr.tasktracker;
 
 import com.github.ltsopensource.spring.boot.annotation.EnableTaskTracker;
 import org.springframework.boot.SpringApplication;

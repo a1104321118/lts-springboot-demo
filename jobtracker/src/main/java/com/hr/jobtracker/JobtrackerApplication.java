@@ -1,4 +1,4 @@
-package com.pingpongx.jobtracker;
+package com.hr.jobtracker;
 
 import com.github.ltsopensource.spring.boot.annotation.EnableJobTracker;
 import org.springframework.boot.SpringApplication;

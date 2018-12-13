@@ -1,11 +1,11 @@
-package com.pingpongx.tasktracker.runners.impl;
+package com.hr.tasktracker.runners.impl;
 
 import com.github.ltsopensource.core.domain.Action;
 import com.github.ltsopensource.core.domain.Job;
 import com.github.ltsopensource.tasktracker.Result;
 import com.github.ltsopensource.tasktracker.runner.JobContext;
-import com.pingpongx.tasktracker.runners.Runner;
-import com.pingpongx.tasktracker.runners.JobKey;
+import com.hr.tasktracker.runners.JobKey;
+import com.hr.tasktracker.runners.Runner;
 import org.springframework.stereotype.Component;
 
 /**
